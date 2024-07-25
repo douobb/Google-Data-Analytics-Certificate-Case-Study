@@ -1,4 +1,5 @@
 library(tidyverse)
+setwd("G:/projects/Google Data Analytics Certificate Case Study/Case Study 1 - How does a bike-share navigate speedy success/data")
 weekDay <- c("Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat")
 
 # Import & Aggregate
