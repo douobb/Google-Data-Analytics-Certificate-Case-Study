@@ -55,6 +55,7 @@ divvyTrips <- aggregate_data %>%
 ```
 
 清理後的表格：
+
 ![Cleaned Table](img/Cleaned%20Table.png)
 
 ## Step 4 - Analyze & Step 5 - Share
