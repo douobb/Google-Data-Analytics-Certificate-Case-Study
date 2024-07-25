@@ -12,8 +12,8 @@ Cyclistic’s historical trip data
 * License: https://divvybikes.com/data-license-agreement
 
 ### Report:
-* [English ver.](CaseStudy1-En.md)
-* [Chinese ver.](CaseStudy1-Ch.md)
+* [English version](CaseStudy1-En.md)
+* [Chinese version](CaseStudy1-Ch.md)
 
 ### Use
 * R
