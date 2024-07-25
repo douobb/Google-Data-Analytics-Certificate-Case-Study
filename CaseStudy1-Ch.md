@@ -40,7 +40,7 @@ divvyTrips <- aggregate_data %>%
   drop_na() %>% 
 ```
 
-3. 增加四個列，並且篩選 `ride_length` 的值在 1 分鐘到 1 天之間。
+3. 增加四個欄位，並且篩選 `ride_length` 的值在 1 分鐘到 1 天之間。
 * ride_length: 行程的時間 (單位為分鐘)。
 * day_of_week: 行程結束時是星期幾。
 * ended_month: 行程結束時的月份。
